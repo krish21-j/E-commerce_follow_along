@@ -166,3 +166,31 @@ In this milestone, we will create a page to display product details, choose quan
 - Implement an "Add to Cart" button.
 
 This milestone focuses on building a functional product info page for users.
+
+### Milestone 17: Cart Functionality
+
+Overview:-
+
+This milestone involves adding a cart feature to the user schema and implementing an endpoint to store product details in the cart.
+
+Changes Made:
+
+1. Cart Schema:
+
+    1. Added a Cart schema to store products associated with the user.
+    2. Each product contains a productId (referencing the Product model) and quantity.
+
+2. Endpoint for Adding Products to Cart:
+
+    1. Created a POST endpoint /api/cart/add to receive product details (e.g., product ID and quantity).
+    2. The product details are stored in the cart associated with the user in the database.
+
+
+### Milestone 18: Cart Functionality Update
+
+Overview:-
+
+In this milestone, we have added two key backend endpoints to handle cart functionalities:
+
+    1. Adding products to the cart via a POST request.
+    2. Fetching all products inside a user's cart using their email.
