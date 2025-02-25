@@ -194,3 +194,24 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
     1. Adding products to the cart via a POST request.
     2. Fetching all products inside a user's cart using their email.
+
+    <hr>
+Milestone 19: Cart Page with Quantity Update
+
+✅ Create a Cart Page that displays products inside the cart using the endpoint built in Milestone 18.
+
+✅ Implement Quantity Controls for each product, allowing users to increase or decrease quantity using + and - buttons.
+
+✅ Build Backend Endpoints to update product quantity in the cart.
+
+✅ Update the README with a short guide on using the new API endpoints.
+<hr>
+Milestone 20: User Profile & Data Sharing
+
+✅ Create a Backend Endpoint to send all user data via email.
+
+✅ Develop a Profile Page in the frontend to display user details.
+
+✅ Display Profile Photo, Name, Email, and Addresses on the profile page.
+
+✅ Ensure Secure Data Handling while fetching and sending user information.
