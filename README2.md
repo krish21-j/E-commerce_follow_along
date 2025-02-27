@@ -14,6 +14,7 @@ Backend Development: I will set up a server with Node.js and Express.js to handl
 
 Frontend with React: I will use React to build dynamic, user-friendly interfaces, like product lists and shopping carts.
 
+<hr>
 
 ## Milestone 2: 
 
@@ -30,6 +31,7 @@ Integrated Tailwind CSS for utility-first, responsive styling to enhance UI deve
 5. Login Page Development:
 Designed and built a functional Login Page with form validation and styling using Tailwind.
 
+<hr>
 
 ## Milestone 3: 
 
@@ -43,6 +45,7 @@ Database Connection: We integrated MongoDB into the project to store and manage 
 
 Error Handling: Basic error-handling mechanisms were added to ensure that the server can respond with clear error messages for better debugging and user feedback.
 
+<hr>
 
 ## Milestone 4: 
 
@@ -54,6 +57,7 @@ User Controller: The User Controller was developed to manage user-related reques
 
 File Uploads with Multer: We integrated Multer to enable file uploads, allowing users to upload images (e.g., profile pictures). Multer manages the file storage and ensures that the files are saved securely in the backend.
 
+<hr>
 
 ## Milestone 5: 
 
@@ -65,7 +69,7 @@ Form Validation: Form validation was added to ensure that user inputs are accura
 
 UI/UX Enhancements: The design is simple yet effective, allowing users to smoothly enter their details. We focused on making the form clean and responsive, ensuring it works across devices.
 
-
+<hr>
 
 ## Milestone 6: 
 
@@ -79,6 +83,7 @@ Database Connection: We integrated MongoDB into the project to store and manage 
 
 Error Handling: Basic error-handling mechanisms were added to ensure that the server can respond with clear error messages for better debugging and user feedback.
 
+<hr>
 
 ## Milestone 7: Login Endpoint 📝
 
@@ -90,6 +95,7 @@ Test via POST /api/auth/login with email and password in the request body.
 
 Response: Success with a token, or error for invalid credentials.
 
+<hr>
 
  ## Milestone 8: Product Card Component 🌟
 
@@ -107,9 +113,13 @@ In the next milestone, we’ll add features like filtering and sorting. Keep up 
 - Push your code to GitHub and ensure the repository is public.
 - Update README with your progress and share the link.
 
+<hr>
+
 # Milestone 9: Product Form Creation
 
 In this milestone, I created a frontend form for inputting product details, including multiple images. This form captures essential product information such as title, description, price, and image files, and will eventually be saved to the database. This milestone helps to understand how to handle user inputs and manage media files in a web application. Additional features like admin access for product uploads were also explored.
+
+<hr>
 
 # Milestone 10: Product Schema & Endpoint Creation
 
@@ -119,11 +129,15 @@ I also built a POST endpoint that receives product details, validates the input 
 
 Additionally, I explored optional features like creating admin roles for restricted access to product uploads. This milestone strengthens the backend process of handling product data, making it ready for display on the frontend in future milestones.
 
+<hr>
+
 ## Milestone 11
 
 Welcome to Milestone 11! 🌟
 
 In this milestone, we learned how to display products dynamically on the home page using data stored in MongoDB. We built an endpoint to fetch all the products and a frontend function to display them using a product card component.
+
+<hr>
 
 # Milestone 12 - My Products Page
 
@@ -131,15 +145,21 @@ Welcome to Milestone 12! 🌟
 
 In this milestone, we will build a "My Products" page that will display all the products added by a specific user. We will write an endpoint to filter products based on the user's email and send that data to the frontend. The data will be fetched dynamically and displayed using the Product Card component created earlier.
 
+<hr>
+
 # Milestone 13: Product Editing Functionality
 
 ## Overview 🌟
 
 In this milestone, we focus on implementing functionality to allow users to edit the details of previously uploaded products. This includes creating a backend endpoint to update existing data in MongoDB and modifying the frontend to auto-fill the form with existing product details, giving the user the option to edit and save the new data.
 
+<hr>
+
 ## Milestone 14 - Adding Product Deletion Functionality
 
 In this milestone, we focus on implementing functionality to allow users to delete the details of previously uploaded products.
+
+<hr>
 
 ## Milestone 15: Navbar Component Integration
 
@@ -156,6 +176,8 @@ In this milestone, we'll create and integrate a reusable Navbar component across
 
 This milestone teaches how to build and reuse a responsive Navbar for seamless navigation.
 
+<hr>
+
 ## Milestone 16: Product Info Page
 
 In this milestone, we will create a page to display product details, choose quantity, and add to the cart.
@@ -166,6 +188,8 @@ In this milestone, we will create a page to display product details, choose quan
 - Implement an "Add to Cart" button.
 
 This milestone focuses on building a functional product info page for users.
+
+<hr>
 
 ### Milestone 17: Cart Functionality
 
@@ -185,6 +209,7 @@ Changes Made:
     1. Created a POST endpoint /api/cart/add to receive product details (e.g., product ID and quantity).
     2. The product details are stored in the cart associated with the user in the database.
 
+<hr>
 
 ### Milestone 18: Cart Functionality Update
 
@@ -195,7 +220,8 @@ In this milestone, we have added two key backend endpoints to handle cart functi
     1. Adding products to the cart via a POST request.
     2. Fetching all products inside a user's cart using their email.
 
-    <hr>
+<hr>
+
 ### Milestone 19: Cart Page with Quantity Update
 
 ✅ Create a Cart Page that displays products inside the cart using the endpoint built in Milestone 18.
@@ -205,6 +231,7 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 ✅ Build Backend Endpoints to update product quantity in the cart.
 
 ✅ Update the README with a short guide on using the new API endpoints.
+
 <hr>
 
 ### Milestone 20: User Profile & Data Sharing
@@ -217,7 +244,15 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
 ✅ Ensure Secure Data Handling while fetching and sending user information.
 
+<hr>
+
 ### Milestone 21📝
 1. Created address form frontend page
 2. Created an state that will store input address
 3. when we click on add address in profile it should navigate to this form page.
+ 
+ <hr>
+
+### Milestone 22📝
+1. Created an endpoint that will receive the address from address form in frontend
+2. Added the address to the address array inside user collection
