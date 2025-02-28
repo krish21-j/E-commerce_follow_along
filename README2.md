@@ -255,4 +255,21 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
 ### Milestone 22📝
 1. Created an endpoint that will receive the address from address form in frontend
-2. Added the address to the address array inside user collection
+2. Added the address to the address array inside user 
+
+<hr>
+Milestone 23 🎯
+
+In this milestone:
+
+✅ Add a "Place Order" button inside the cart.
+
+✅ Create a "Select Address" page to display all saved addresses and allow users to choose a delivery address.
+
+✅ Write a Mongoose schema to store order details.
+<hr>
+Milestone 24 🎯
+
+In this milestone:
+
+✅ Create an Order Confirmation page.
