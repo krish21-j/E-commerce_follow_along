@@ -258,7 +258,8 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 2. Added the address to the address array inside user 
 
 <hr>
-Milestone 23 🎯
+
+### Milestone 23 🎯
 
 In this milestone:
 
@@ -268,7 +269,8 @@ In this milestone:
 
 ✅ Write a Mongoose schema to store order details.
 <hr>
-Milestone 24 🎯
+
+### Milestone 24 🎯
 
 In this milestone:
 
