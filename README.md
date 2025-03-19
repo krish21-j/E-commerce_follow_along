@@ -16,7 +16,7 @@ Frontend with React: I will use React to build dynamic, user-friendly interfaces
 
 <hr>
 
-## Milestone 2: 
+## Milestone 2📝: 
 
 Key Achievements
 1. Project Structure:
@@ -33,7 +33,7 @@ Designed and built a functional Login Page with form validation and styling usin
 
 <hr>
 
-## Milestone 3: 
+## Milestone 3📝: 
 
 In this milestone, we focused on building the foundation for the backend of our e-commerce application. The key objectives were to set up a server, connect it to a database, and establish a solid folder structure to keep our code organized.
 
@@ -47,7 +47,7 @@ Error Handling: Basic error-handling mechanisms were added to ensure that the se
 
 <hr>
 
-## Milestone 4: 
+## Milestone 4📝: 
 
 In Milestone 4, we focused on enhancing the backend by creating a User Model, setting up a User Controller, and enabling file uploads using Multer. These features are key to handling user data and media effectively in the e-commerce app.
 
@@ -59,7 +59,7 @@ File Uploads with Multer: We integrated Multer to enable file uploads, allowing 
 
 <hr>
 
-## Milestone 5: 
+## Milestone 5📝: 
 
 In Milestone 5, we focused on building the Sign-Up Page for the frontend, where users can register by entering their details. This page includes essential fields such as name, email, and password, providing a clean and user-friendly interface for registration.
 
@@ -71,7 +71,7 @@ UI/UX Enhancements: The design is simple yet effective, allowing users to smooth
 
 <hr>
 
-## Milestone 6: 
+## Milestone 6📝: 
 
 In this milestone, we focused on building the foundation for the backend of our e-commerce application. The key objectives were to set up a server, connect it to a database, and establish a solid folder structure to keep our code organized.
 
@@ -85,7 +85,7 @@ Error Handling: Basic error-handling mechanisms were added to ensure that the se
 
 <hr>
 
-## Milestone 7: Login Endpoint 📝
+## Milestone 7📝: Login Endpoint 
 
 Create a login endpoint to authenticate users. Users provide their email/username and password. The backend compares the entered password (hashed with bcrypt) to the stored password. If valid, a JWT token is generated and returned for subsequent requests.
 
@@ -97,7 +97,7 @@ Response: Success with a token, or error for invalid credentials.
 
 <hr>
 
- ## Milestone 8: Product Card Component 🌟
+ ## Milestone 8📝: Product Card Component 🌟
 
 In this milestone, we focus on creating a *reusable product card component* for your e-commerce app. The goal is to showcase product details (e.g., name, image, price) in a visually appealing way, making it easy for users to browse products.
 
@@ -115,13 +115,13 @@ In the next milestone, we’ll add features like filtering and sorting. Keep up 
 
 <hr>
 
-# Milestone 9: Product Form Creation
+# Milestone 9📝: Product Form Creation
 
 In this milestone, I created a frontend form for inputting product details, including multiple images. This form captures essential product information such as title, description, price, and image files, and will eventually be saved to the database. This milestone helps to understand how to handle user inputs and manage media files in a web application. Additional features like admin access for product uploads were also explored.
 
 <hr>
 
-# Milestone 10: Product Schema & Endpoint Creation
+# Milestone 10📝: Product Schema & Endpoint Creation
 
 In this milestone, I created a Mongoose schema to define the structure for storing product data in MongoDB. The schema includes fields like name, description, price, and image URL, with proper validation to ensure data integrity (e.g., required fields, correct data types). 
 
@@ -131,7 +131,7 @@ Additionally, I explored optional features like creating admin roles for restric
 
 <hr>
 
-## Milestone 11
+## Milestone 11📝
 
 Welcome to Milestone 11! 🌟
 
@@ -139,7 +139,7 @@ In this milestone, we learned how to display products dynamically on the home pa
 
 <hr>
 
-# Milestone 12 - My Products Page
+# Milestone 12📝 - My Products Page
 
 Welcome to Milestone 12! 🌟
 
@@ -147,7 +147,7 @@ In this milestone, we will build a "My Products" page that will display all the 
 
 <hr>
 
-# Milestone 13: Product Editing Functionality
+# Milestone 13📝: Product Editing Functionality
 
 ## Overview 🌟
 
@@ -155,13 +155,13 @@ In this milestone, we focus on implementing functionality to allow users to edit
 
 <hr>
 
-## Milestone 14 - Adding Product Deletion Functionality
+## Milestone 14📝 - Adding Product Deletion Functionality
 
 In this milestone, we focus on implementing functionality to allow users to delete the details of previously uploaded products.
 
 <hr>
 
-## Milestone 15: Navbar Component Integration
+## Milestone 15📝: Navbar Component Integration
 
 In this milestone, we'll create and integrate a reusable Navbar component across all screens for smooth navigation.
 
@@ -178,7 +178,7 @@ This milestone teaches how to build and reuse a responsive Navbar for seamless n
 
 <hr>
 
-## Milestone 16: Product Info Page
+## Milestone 16📝: Product Info Page
 
 In this milestone, we will create a page to display product details, choose quantity, and add to the cart.
 
@@ -191,7 +191,7 @@ This milestone focuses on building a functional product info page for users.
 
 <hr>
 
-### Milestone 17: Cart Functionality
+### Milestone 17📝: Cart Functionality
 
 Overview:-
 
@@ -211,7 +211,7 @@ Changes Made:
 
 <hr>
 
-### Milestone 18: Cart Functionality Update
+### Milestone 18📝: Cart Functionality Update
 
 Overview:-
 
@@ -222,7 +222,7 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
 <hr>
 
-### Milestone 19: Cart Page with Quantity Update
+### Milestone 19📝: Cart Page with Quantity Update
 
 ✅ Create a Cart Page that displays products inside the cart using the endpoint built in Milestone 18.
 
@@ -234,7 +234,7 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
 <hr>
 
-### Milestone 20: User Profile & Data Sharing
+### Milestone 20📝: User Profile & Data Sharing
 
 ✅ Create a Backend Endpoint to send all user data via email.
 
@@ -297,7 +297,7 @@ In this milestone:
 
 <hr>
 
-### Milestone 27: My Orders Page
+### Milestone 27📝: My Orders Page
 
 Welcome to Milestone 27! 
 
@@ -305,11 +305,22 @@ In this milestone, we focused on creating the frontend page that displays all us
 
 <hr>
 
-### Milestone 28: Cancel Order Feature
+### Milestone 28📝: Cancel Order Feature 
 
 Welcome to Milestone 28!
 
  In this milestone, we focused on adding a cancel order feature to the my-orders page and creating a backend endpoint for handling order cancellations.
 
+<hr>
+
+### Milestone 29📝
+
+1. Created a **PayPal Developer Account** and logged into the **PayPal Developer Dashboard**.   
+2. Located the **Client ID** in the sandbox accounts and saved it in the project.  
+3. Updated the **Order Confirmation Page** to include two payment options:  
+   - **Cash on Delivery (COD)**  
+   - **Online Payment**  
+4. Implemented **radio buttons** to toggle between **COD** and **Online Payment**.  
+5. Set up logic so that **PayPal buttons** only appear when the **Online Payment** option is selected.  
 
 
