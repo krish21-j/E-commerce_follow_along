@@ -323,4 +323,12 @@ Welcome to Milestone 28!
 4. Implemented **radio buttons** to toggle between **COD** and **Online Payment**.  
 5. Set up logic so that **PayPal buttons** only appear when the **Online Payment** option is selected.  
 
+<hr>
+
+### Milestone 30📝
+
+1. Implemented online payment using PayPal API using the client key you created earlier.
+2. Downloaded NPM package called react-paypal-js that will provide an component called PayPalScriptProvider which will display online payment methods like credit or debit card etc..,  
+   
+
 
