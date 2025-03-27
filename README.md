@@ -340,5 +340,17 @@ Welcome to Milestone 28!
 4. Inside userActions.js file writen an function called setEmail that will help in storing email state inside global state.
 5. In main.js file wraped APP component inside provider component with store as props.
    
+<hr>
 
+### Milestone 32📝
+1. In Login page we used Dispatch method to store the mail inside global state
+2. In all the remaining pages acc the mail were stored in global state using useSelector
 
+<hr>
+
+### Milestone 31📝
+
+1. Downloaded jsonwebtoken package using NPM
+2. Used sign method to create an JWT token with mail and ID
+3. Gave maxAge to set expire time
+4. Added the cookie inside the response that helps you to store the cookie inside browser.
